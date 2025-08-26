@@ -65,13 +65,12 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
      </a> 
-<div style="background-color:black; padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
+  <img src="https://static.cdnlogo.com/logos/e/68/express.svg" 
        alt="express" 
-       width="80" 
-       height="80"
-       style="filter: brightness(0) invert(1);">
-</div>
+       width="40" 
+       height="40"
+       
+
 
 
 
